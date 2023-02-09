@@ -14,5 +14,5 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        source: "ubuntu/inicio.html"
+        source: "jokaleth1984/ubuntu/inicio.html"
         target: "/home/jorge"
